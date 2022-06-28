@@ -1,1 +1,1 @@
-abc def mno xyz
+abc def mno xy
